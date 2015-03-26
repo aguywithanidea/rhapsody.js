@@ -115,9 +115,10 @@
         return 'json';
       },
 
-      get: function(secure, path, cb) {
+      get: function(secure, path, data, cb) {
 
-        var data = { apikey: this.consumerKey };
+        if (!data) data = {};
+        data.apikey = this.consumerKey;
 
         $.ajax({
           type: 'GET',
