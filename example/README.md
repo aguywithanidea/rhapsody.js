@@ -1,8 +1,8 @@
-# jook.me (rhapsody.js example app)
+## napster.js example app using Jook.me
 
 ### Getting Started
 
-First add the following callback url to the application setting on [developer.rhapsody.com](https://developer.rhapsody.com)
+First add the following callback url to the application setting on [developer.napster.com](https://developer.napster.com)
 
 ```
 http://localhost:2000/authorize

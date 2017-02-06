@@ -1,5 +1,5 @@
 {
-  "name": "jooke.me",
+  "name": "Napster Sample App",
   "version": "0.0.1",
   "dependencies": {
     "body-parser": "^1.12.2",

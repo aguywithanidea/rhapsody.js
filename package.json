@@ -1,7 +1,7 @@
 {
-  "name": "rhapsody.js",
-  "version": "1.0.0",
-  "description": "A client side JavaScript library for managing playback of licensed Rhapsody/Napster audio content.",
+  "name": "napster.js",
+  "version": "2.0.0",
+  "description": "A client side JavaScript library for managing playback of licensed Napster audio content.",
   "main": "gulpfile.js",
   "directories": {
     "example": "example",
@@ -18,19 +18,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rhapsody/rhapsody.js.git"
+    "url": "https://github.com/Napster/napster.js.git"
   },
-  "author": "Rhapsody International, Inc.",
+  "author": "Napster API Team",
   "contributors": [
     {
-      "name": "Daniel Duda"
+      "name": "Marin Liovic"
     },
     {
-      "name": "Christian Nunciato"
+      "name": "Jason Kim"
     }
   ],
   "bugs": {
-    "url": "https://github.com/Rhapsody/rhapsody.js/issues"
+    "url": "https://github.com/Napster/napster.js/issues"
   },
-  "homepage": "https://github.com/Rhapsody/rhapsody.js"
+  "homepage": "https://github.com/Napster/napster.js",
+  "license": "MIT"
 }
